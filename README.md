@@ -1,6 +1,6 @@
 ### Rafat Sarosh
 
-One day, I will fill this section. 
+My day job does not require me to code on daily basis, however, coding is the best therapy. I love coding, hence evenings or weekend I keep dabling in code.
 
 <!--
 **rsarosh/rsarosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
