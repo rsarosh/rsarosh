@@ -54,9 +54,9 @@ Designed for traders, investors, and financial analysts.
 
 I'm always interested in collaborating on exciting projects, discussing AI innovations, or exploring how technology can solve meaningful problems.
 
-- Website: [rafatsarosh.com](https://rafatsarosh.com) (if applicable)
-- LinkedIn: [Connect with me](https://linkedin.com)
-- Email: Get in touch through my products or GitHub
+- YouTube: [YouTube](https://www.youtube.com/@mot7)
+- LinkedIn: [Connect with me]([https://linkedin.com](https://www.linkedin.com/in/rafatsarosh/))
+- Email: rafat.sarosh@gmail.com
 
 ---
 
