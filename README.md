@@ -6,9 +6,11 @@ Welcome to my GitHub profile! I'm a serial entrepreneur and AI/ML innovator focu
 
 I'm passionate about artificial intelligence, machine learning, and creating products that leverage cutting-edge technology to deliver tangible value. With a background in building scalable applications and AI-driven platforms, I'm committed to democratizing access to advanced tools and insights.
 
- # My Products & Projects
+# My Products & Projects
 
- 🧬 [AnzioLabs](https://anziolabs.com)
+
+
+# 🧬 [AnzioLabs](https://anziolabs.com)
 Advanced AI-powered biological and molecular analysis platform
 
 AnzioLabs leverages artificial intelligence and machine learning to provide deep insights into biological systems and molecular structures. Our platform enables researchers, scientists, and organizations to:
