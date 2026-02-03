@@ -8,9 +8,10 @@ I'm passionate about artificial intelligence, machine learning, and creating pro
 
 # My Products & Projects
 
+# [Intellivisa](https://intellivisa.com) 
+We are building the world's first agentic AI platform to automate and simplify the global visa process. Our mission is to leverage cutting-edge AI to create a seamless, intelligent, and world-class experience for global mobility. We are a team of builders who believe in a new paradigm of software development—one where human ingenuity directs AI to do the heavy lifting.
 
-
-# 🧬 [AnzioLabs](https://anziolabs.com)
+# [AnzioLabs](https://anziolabs.com)
 Advanced AI-powered biological and molecular analysis platform
 
 AnzioLabs leverages artificial intelligence and machine learning to provide deep insights into biological systems and molecular structures. Our platform enables researchers, scientists, and organizations to:
@@ -21,7 +22,7 @@ AnzioLabs leverages artificial intelligence and machine learning to provide deep
 
 Perfect for researchers, pharmaceutical companies, and biotech innovators.
 
-# 🤖 [3Pane](https://3pane.com)
+# [3Pane](https://3pane.com)
 Multi-AI Query Platform - Talk to All AI Models at Once
 
 Query multiple AI models simultaneously with a single prompt. 3Pane allows you to:
@@ -33,7 +34,7 @@ Query multiple AI models simultaneously with a single prompt. 3Pane allows you t
 Ideal for researchers, content creators, developers, and decision-makers.
 
 
-# 📈 [Moneta Signals](https://moneta-signals.com)
+# [Moneta Signals](https://moneta-signals.com)
 AI-Powered Stock Market Intelligence Agent
 
 Harness artificial intelligence for smarter investment decisions. Moneta Signals offers:
@@ -44,6 +45,10 @@ Harness artificial intelligence for smarter investment decisions. Moneta Signals
 - Automated monitoring and alert systems
 
 Designed for traders, investors, and financial analysts.
+
+# [ELF-007](https://elf007.com)
+Your secret elf's work for you when you sleep. This my version of openclaw, created before openclaw.
+Streamline your tasks and harness the power of AI agents to automate your workflow. Sync emails, create tasks, and let intelligent agents handle the rest.
 
 # What Drives Me
 
@@ -57,7 +62,7 @@ Designed for traders, investors, and financial analysts.
 I'm always interested in collaborating on exciting projects, discussing AI innovations, or exploring how technology can solve meaningful problems.
 
 - YouTube: [YouTube](https://www.youtube.com/@mot7)
-- LinkedIn: [Connect with me] (https://www.linkedin.com/in/rafatsarosh/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/rafatsarosh/)
 - Email: rafat.sarosh@gmail.com
 
 ---
